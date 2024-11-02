@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idurooni.github.io/ELI/sitemap_index.txt
+Sitemap: https://idurooni.github.io/Irl/sitemap_index.txt
+Sitemap: https://idurooni.github.io/WIp/sitemap_index.txt
+Sitemap: https://idurooni.github.io/uyD/sitemap_index.txt
